@@ -1,0 +1,3 @@
+/Users/sb/Documents/raytracing-opti/build/CMakeFiles/raytracer.dir
+/Users/sb/Documents/raytracing-opti/build/CMakeFiles/edit_cache.dir
+/Users/sb/Documents/raytracing-opti/build/CMakeFiles/rebuild_cache.dir
